@@ -6,7 +6,7 @@ tagline: 记录
 actionText: 进入
 actionLink: /pages/folder2/test1.md
 features:
-- title: one
+- title: one day day
   details: onddatales
 - title: tow
   details: towdatales
