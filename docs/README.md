@@ -8,7 +8,7 @@ actionLink: /pages/folder2/test1.md
 features:
 - title: one day day
   details: onddatales
-- title: tow
+- title: tow day day
   details: towdatales
 - title: tree
   details: treedatales
